@@ -4,5 +4,5 @@ Assingment of Quarter#2 of **PIAIC**
 
 The following topic Assignments are covered here!
 
-[x] **Numpy**
-[] **Pandas**
+- [x] Numpy
+- [] Pandas
