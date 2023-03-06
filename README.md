@@ -1,6 +1,6 @@
 # **piaic_assignments**
 All Assignments of Presidential Initiative for Artificial Intelligence course of batch-36 online by Sir Nasir and Sir Nouman
-Assingment of Quarter#2 of **PIAIC**
+Assingment of Quarter#2 of **PIAIC** (2022-23)
 
 The following topic Assignments are covered here!
 
